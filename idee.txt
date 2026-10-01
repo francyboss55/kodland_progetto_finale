@@ -1,0 +1,29 @@
+fare un sito che calcoli il consumo energetico di una casa.
+
+elenco domande:
+
+1) quantità di computers collegati alla corrente
+        se il numero è superiore allo 0 chiede di inserire il numero di dispositivi per marca
+        se il numero è 0 passa alla domanda successiva
+
+2) quantità di lampadine nella casa
+        se è superiore a 0 chiede quante tieni accese solitamente
+        altrimenti passa alla domanda successiva
+
+3) quantità di schermi nella casa(esterni)
+        se è superiore a 0 chiede la risoluzione dei vari schermi
+        altrimenti passa alla domanda successiva
+
+4) chiede se la casa è munita di sistemi di energia pulita privati
+        se sì chiede il numero e il tipo
+        altrimenti passa alla domanda successiva
+
+5) chiede quanti altri dispositivi sono collegati alla corrente
+        se è superiore a 0 chiede la quantità rispetto a una lista di oggetti
+        altrimenti passa alla domanda successiva
+
+6) chiede se ha camini o stufe utilizzate spesso
+        se sì chiede che tipo di camino/stufa
+        altrimenti passa alla domanda successiva
+
+7) calcola il consumo circa e se la casa è ecologica
