@@ -27,3 +27,5 @@ elenco domande:
         altrimenti passa alla domanda successiva
 
 7) calcola il consumo circa e se la casa è ecologica
+        se la casa è ecologica fà i complimenti all'utente
+        se la casa non è ecologica dà dei consigli su come migliorarla
